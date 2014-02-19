@@ -2,10 +2,10 @@ require 'formula'
 require 'net/http'
 
 class LaunchrocketPlists < Formula
-  url 'https://github.com/jimbojsb/launchrocket-plists/archive/v0.1.1.zip'
-  sha1 'ae3f25a07605d932359c6a2781402dadbc100da3'
+  url 'https://github.com/jimbojsb/launchrocket-plists/archive/v0.1.2.zip'
+  sha1 'f7ff7433102d5897c83c521a9b242ab72bfdd774'
   homepage 'http://github.com/jimbojsb/launchrocket-plists'
-  version '0.1.1'
+  version '0.1.2'
 
   
   def install
