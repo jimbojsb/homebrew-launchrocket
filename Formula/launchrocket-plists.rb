@@ -1,5 +1,4 @@
 require 'formula'
-require 'net/http'
 
 class LaunchrocketPlists < Formula
   url 'https://github.com/jimbojsb/launchrocket-plists/archive/v0.1.4.zip'
